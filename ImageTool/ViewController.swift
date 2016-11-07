@@ -12,8 +12,6 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let image:UIImage = UIImage()
-        image.sizeToFit()
     }
 
     override func didReceiveMemoryWarning() {
